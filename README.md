@@ -1,7 +1,7 @@
 # Maze-Creator-and-Editor
 Coded using Python and Tkinter.
 
-##Usage
+## Usage
 You can draw and re-upload your own mazes in any size you want and ctreate new one.
 
 ### Step-1)
